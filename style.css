@@ -1,0 +1,43 @@
+h1, p {
+    margin-left: 300px;
+}
+h1 {
+     font-size: 80px ;
+
+}
+p {
+    font-size: 50px;
+
+}
+span{
+    color:rgba(88, 158, 144, 0.183);
+}
+a {
+    text-decoration: teal;
+
+}
+
+/* navigation bar */
+nav {
+    border: 10px solid black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(48, 185, 216);
+
+}
+nav ul li{
+    border: 1px rgb(0, 0, 0);
+    padding: 1px;
+    list-style-type: none;
+    display: inline;
+}
+
+/* Images */
+img {
+    height: 200px;
+    width: 350px;
+}
+body {
+background-color: rgb(20, 220, 110);
+}
